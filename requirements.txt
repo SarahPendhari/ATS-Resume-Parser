@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+spacy # Specify a stable version of SpaCy
+numpy  # Specify a compatible version of NumPy
+scikit-learn
+nltk
